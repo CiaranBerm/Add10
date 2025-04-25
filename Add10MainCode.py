@@ -1,1 +1,2 @@
-print("hello_world")
+for i in range(1, 11):
+    print(f"hello{i}")
